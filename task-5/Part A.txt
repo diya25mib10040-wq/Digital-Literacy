@@ -1,0 +1,50 @@
+Part A – Case Study (Advanced, 220–250 words)
+?? Topic: Phishing Attack 
+# Cybercrime Case Study: Phishing Attack
+
+Phishing is a type of cybercrime in which attackers try to trick individuals into revealing sensitive information such as passwords, bank details, or OTPs by pretending to be a trusted entity.
+
+A common phishing scenario begins with the victim receiving an email or message that appears to be from a legitimate organization, such as a bank, online shopping platform, or even their college. The message often creates a sense of urgency, such as “Your account will be blocked” or “You have won a reward.”
+
+The message contains a link that redirects the user to a fake website designed to look identical to the original. When the user enters their login credentials or financial details, the attacker captures the information instantly.
+
+Students are frequent targets because they regularly use email, online payments, and social media platforms. Many may not verify links carefully, making them vulnerable.
+
+For example, a student received an email claiming to be from a popular payment app asking to verify their account. After clicking the link and entering details, their account was compromised, resulting in unauthorized transactions.
+
+Phishing attacks can lead to financial loss, identity theft, and misuse of personal data. This highlights the importance of awareness and careful verification before trusting any online communication.
+.
+
+?? Part B – Prevention Checklist (Detailed & Strong)
+# Stay Safe Online – Prevention Checklist
+
+## ?? General Safety Tips
+- Always verify the sender before responding to emails or messages
+- Do not click on suspicious or unknown links
+- Check website URLs carefully (look for https:// and correct spelling)
+- Use strong and unique passwords for different accounts
+- Enable two-factor authentication (2FA) wherever possible
+- Avoid downloading files from untrusted sources
+- Regularly update your device and apps for security patches
+
+## ?? Financial / UPI Safety Tips
+- Never share your OTP, UPI PIN, or bank details with anyone
+- Remember: entering UPI PIN means money is being sent, not received
+- Do not scan QR codes from unknown sources
+- Always verify the receiver’s name before making any payment
+
+## ?? Social Media Safety
+- Do not accept friend requests from unknown people
+- Avoid sharing personal information publicly
+- Be cautious of messages asking for money or urgent help
+
+## ?? Reporting Cybercrime
+- Report incidents at: https://cybercrime.gov.in
+- Call Cyber Crime Helpline: 1930Part 
+
+Part C – Reflection
+While researching cybercrime, I was surprised to learn how advanced phishing attacks have become and how easily people can be tricked by fake emails and websites that look completely genuine. I realized that even a small mistake, such as clicking on an unknown link, can lead to serious consequences like financial loss or identity theft.
+
+This task made me more aware of the importance of verifying online information before trusting it. One habit I will change is that I will carefully check all links and messages before clicking on them and avoid sharing any sensitive information online. I will also enable two-factor authentication on my accounts to improve security.
+
+Overall, this task helped me understand the importance of digital awareness and staying alert while using online platforms.
